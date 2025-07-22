@@ -13,7 +13,7 @@ This Python script records the user's keystrokes and sends them via email at reg
 Python 3.6 or higher
 
 ### Required Libraries:
-
+ 
 ```bash
 pip install pynput
 ```
